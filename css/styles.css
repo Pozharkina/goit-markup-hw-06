@@ -783,6 +783,7 @@ img {
   height: 50px;
   background: var(--main-focus-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border: transparent;
   border-radius: 4px;
   padding: 10px 0;
   cursor: pointer;
