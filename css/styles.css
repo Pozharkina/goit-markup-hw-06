@@ -728,12 +728,15 @@ img {
 
 .footer .conteiner {
   display: flex;
-  margin-top: 72px;
 }
 
 .social-links {
   margin-top: 12px;
   margin-left: 70px;
+}
+
+.footer-form {
+  margin-top: 12px;
 }
 
 .footer-subscription {
